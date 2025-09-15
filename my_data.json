@@ -1,0 +1,32 @@
+{
+    "profiles": [
+        {
+            "id": 1,
+            "name": "Garrett",
+            "age": 23,
+            "skills": [
+                "Software Engineering",
+                "Web Development",
+                "Integration Engineering"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "John",
+            "age": 19,
+            "skills": [
+                "Software Engineering",
+                "Web Development"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Abel",
+            "age": 26,
+            "skills": [
+                "Technician",
+                "Industrial Production"
+            ]
+        }
+    ]
+}
